@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="ZJ2_FXjiatBeh7T9DuZv">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H4kfzd0SBzn0pTL0880t-1" value="&lt;h1&gt;Photo&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="370" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="H4kfzd0SBzn0pTL0880t-3" value="&lt;h1&gt;Photo&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="120" width="350" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="H4kfzd0SBzn0pTL0880t-4" value="&lt;h1&gt;Heading&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="30" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4kfzd0SBzn0pTL0880t-5" value="&lt;h1&gt;Text&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="570" width="790" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="H4kfzd0SBzn0pTL0880t-6" value="&lt;h1&gt;Copyright&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1090" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4kfzd0SBzn0pTL0880t-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="H4kfzd0SBzn0pTL0880t-6" target="H4kfzd0SBzn0pTL0880t-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b2Ig-1pMMiBunwsH6V-J-2" value="&lt;h1&gt;QR Code&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="870" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="b2Ig-1pMMiBunwsH6V-J-3" value="&lt;h1&gt;Helpline&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="870" width="370" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

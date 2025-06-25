@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="3">
+  <diagram name="Page-1" id="D4icn8hqZIW5OLsx8QNy">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FF8800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-1" value="Heading:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="810" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-4" value="Quote 1:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="810" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-28" value="Image 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="270" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-29" value="Text 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="270" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.no_symbol;fillColor=#DA1E37;" vertex="1" parent="1">
+          <mxGeometry x="329" y="290" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-40" value="Text 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#DA1E37;" vertex="1" parent="1">
+          <mxGeometry x="329" y="670" width="171" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gscE6I9bkBTc_wkXrgkj-44" value="Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1090" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQXTeWaBNMoUylrA5U4-1" value="Image 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4-B2YmvAY75z8Iv8gozI" name="Page-2">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="99sKZCbBYEfV9YR_Cas3" name="Page-3">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
