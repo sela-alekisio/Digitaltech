@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="5">
   <diagram name="Page-1" id="qkxHVoJTExJohhH5rRGI">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,35 +34,35 @@
         <mxCell id="kvzW9UvxOjQPwIP63uNE-15" value="&lt;h1&gt;IMAGE&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="119" width="847" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-18" value="&lt;h1&gt;TEXT: Mizpah&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-18" value="&lt;h1&gt;Heading&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="1943" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-19" value="&lt;h1&gt;IMAGE&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-19" value="&lt;h1&gt;Image&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="2012" width="338" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-23" value="&lt;h1&gt;TEXT: Penrose&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-23" value="&lt;h1&gt;Heading&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="1283" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-24" value="&lt;h1&gt;IMAGE&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-24" value="&lt;h1&gt;Image&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="1350" width="338" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-25" value="&lt;h1&gt;TEXT: Papakura&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-25" value="&lt;h1&gt;Heading&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="1612" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-26" value="&lt;h1&gt;IMAGE&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-26" value="&lt;h1&gt;Image&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1689" width="338" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-27" value="&lt;h1&gt;TEXT: Ponsonby&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-27" value="&lt;h1&gt;Heading&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="639" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-28" value="&lt;h1&gt;IMAGE&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-28" value="&lt;h1&gt;Image&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="708" width="338" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-29" value="&lt;h1&gt;TEXT: PASDA&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-29" value="&lt;h1&gt;Heading&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="962" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-30" value="&lt;h1&gt;IMAGE&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2" y="1030" width="338" height="245" as="geometry" />
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-30" value="&lt;h1&gt;Image&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1022" width="338" height="245" as="geometry" />
         </mxCell>
         <mxCell id="kvzW9UvxOjQPwIP63uNE-89" value="&lt;h1&gt;TEXT&lt;/h1&gt;&lt;h1&gt;Locations, Established, Practices, Belief, Demongraphic&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="641" width="487" height="312" as="geometry" />
@@ -79,11 +79,8 @@
         <mxCell id="kvzW9UvxOjQPwIP63uNE-93" value="&lt;h1&gt;TEXT&lt;/h1&gt;&lt;h1&gt;Locations, Established, Practices, Belief, Demongraphic&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="1943" width="487" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-94" value="&lt;h1&gt;TEXT 1&lt;/h1&gt;&lt;h1&gt;Purpose of the Website&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2" y="321" width="412" height="302" as="geometry" />
-        </mxCell>
-        <mxCell id="kvzW9UvxOjQPwIP63uNE-95" value="&lt;h1&gt;TEXT 2&lt;/h1&gt;&lt;h1&gt;Describe the assignment requirement&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="321" width="412" height="302" as="geometry" />
+        <mxCell id="kvzW9UvxOjQPwIP63uNE-94" value="&lt;h1&gt;TEXT 1&lt;/h1&gt;&lt;h1&gt;Purpose of the Website&lt;/h1&gt;&lt;h1&gt;TEXT 2&lt;/h1&gt;&lt;h1&gt;Describe the assignment requirement&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="321" width="847" height="302" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
